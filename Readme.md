@@ -102,7 +102,7 @@ B.Tech in Computer Science
 ## 📬 Contact
 
 * GitHub: **https://github.com/Pankajranher**
-* LinkedIn: **linkedin.com/in/pankaj-ranher**
+* LinkedIn: **https://linkedin.com/in/pankaj-ranher**
 
 ---
 
